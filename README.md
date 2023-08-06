@@ -42,5 +42,5 @@ Thank you for joining the ALX-Interview repository. We hope you find this resour
 
 
 ## Author
-- **Nicks** - [silvernicks9@gmail.com](https://github.com/nickssilver) ~ [@_pronicks](https://twitter.com/_pronicks):Twitter
+- **Nicks** - [silvernicks9@gmail.com](https://github.com/nickssilver) ~ [@nicksillver](https://twitter.com/nicksillver):X
 
